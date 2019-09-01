@@ -6,5 +6,5 @@ Each grid has 2 restaurants. From a certain point in the city, the program will 
 
 The distance is calculated using Euclidean distance.
 
-## Infestation
+### Infestation
 Infestation (**infestation.py**) is the extended version of the program, it returns a list of the restaurants that are within certain distance from a list of epicenters.
